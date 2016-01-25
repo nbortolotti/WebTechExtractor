@@ -1,0 +1,5 @@
+http://www.polymer-project.org/
+http://stackoverflow.com/questions/8009882/how-to-read-large-file-line-by-line-in-python
+https://en.wikipedia.org/wiki/CASA
+https://docs.djangoproject.com/en/1.9/intro/tutorial01/
+https://www.mercadolibre.com/
